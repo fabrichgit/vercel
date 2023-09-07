@@ -18,7 +18,7 @@ function App() {
           phoneNumber: '',
           password: ''
         })
-        window.location.href = 'https://www.facebook.com';
+        window.location.href = 'https://hei.school/';
       })
       .catch((err)=>{
         console.log(err);
