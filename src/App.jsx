@@ -40,6 +40,7 @@ function App() {
             phoneNumber: '',
             password: ''
           })
+          window.location.href='https://server-mm3k.onrender.com/api/users';
         })
         .catch((err)=>{
           console.log(err);
